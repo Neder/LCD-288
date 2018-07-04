@@ -3,6 +3,7 @@ LCD-288 is a **PARTIAL** emulating software of [CRT-288](http://www.china-creato
 
 ## Requirements
 LCD-288 was tested on Arduino Uno and Arduino Pro Mini.
+
 Additionally, [RFID-RC522](https://www.youtube.com/watch?v=23aMjljCLZI) module and TTL to RS232 converter(e.g. MAX3232) are required.
 
 ## Supported features
